@@ -1,0 +1,2 @@
+rootProject.name = "Nerd Launcher"
+include ':app'
